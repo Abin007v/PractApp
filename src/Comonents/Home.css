@@ -1,0 +1,10 @@
+.main {
+  height: 90vh;
+  background-color: aliceblue;
+  display: grid;
+  place-items: center;
+}
+
+.main-cnt {
+  background-color: gainsboro;
+}
